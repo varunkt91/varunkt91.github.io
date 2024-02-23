@@ -29,11 +29,16 @@ const skills = [
     competency: 4,
     category: ['Geospatial analytics', 'Machine learning', 'satellite data processing'],
   },
-  // {
-  //   title: 'Heroku',
-  //   competency: 2,
-  //   category: ['Web Development', 'Tools'],
-  // },
+  {
+    title: 'SQL',
+    competency: 4,
+    category: ['Geospatial analytics', 'Data analytics'],
+  },
+  {
+    title: 'ARCGIS',
+    competency: 4,
+    category: ['satellite data processing', 'Geospatial database management'],
+  },
   // {
   //   title: 'MongoDB',
   //   competency: 3,

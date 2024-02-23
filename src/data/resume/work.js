@@ -21,18 +21,32 @@ const work = [
     surface water and flooding dynamics using Synthetic Aperture RADAR data.`,
     highlights: [
       'Surface water and flooding dynamics using machine learning and multi-sensor satellite data.',
-      'Development of python scripts for satellite data processing.',
+      'Crop production forecasting by integrating machine learning and remote sensing datasets.',
       'Time-series analysis.',
+      'Developed a pipeline for monitoring global flood events using a deep learning model.',
       'Deploying machine learning and deep learning frameworks for regression and classification problems.',
-      'Big data.',
+      'Big data analysis.',
+      'Flooding from Space: Using Satellite Imagery to Detect Floodwaters in Reidsville and Collins, Georgia.',
     ],
   },
+
+  {
+    name: 'United States Department of Agriculture (USDA), USA',
+    position: 'Data Science Intern',
+    url: 'https://www.usda.gov/',
+    startDate: '2023-06-01',
+    endDate: '2023-08-31',
+    highlights: [
+      'Developed a frame work for rice yield prediction using satellite data and machine learning',
+    ],
+  },
+
   {
     name: 'Borlaug Institute of South Asia, CGIAR, India',
     position: 'Spatial Modelling Specialist',
     url: 'https://www.icimod.org/',
     startDate: '2021-09-01',
-    endDate: '2021-12-31',
+    endDate: '2022-01-09',
     summary: `Worked on a project which aims to identify dry, wet and concurrent events in rainy season using satellite data,
     with the aim of evaluation of its impact over agriculture areas in early and reproductive stage.`,
     highlights: [
@@ -41,7 +55,6 @@ const work = [
       'Machine learning for satellite data classification.',
       'Climate data analysis',
       'Coordination with stakeholders partners for implementing the project',
-      'Contributing to capacity building activities within the scope of SERVIR for benefiting all the regional partners in HKH.',
 
     ],
   },
@@ -54,12 +67,14 @@ const work = [
     summary: `I worked as a Remote Sensing and GIS Analyst in SERVIR Phase II, a joint development initiative of the United States Agency for International Development (USAID) and the National Aeronautics and Space Administration (NASA). SERVIR collaborates with leading regional organizations around the globe.
     The objective of the SERVIR-Hindukush Himalaya program is to connect space technology to the village.`,
     highlights: [
-      'Responsible for developing agriculture and food security services in Afghanistan, Bangladesh & Nepal.',
-      'Developing an operational framework for crop area estimation and vegetation health monitoring in a cloud-based open-source environment (Google Earth Engine).',
-      'Developing an operational framework for the Rangeland monitoring system in Afghanistan.',
-      'Developing an operational framework for flood mapping using Google Earth Engine.',
-      'Coordination with stakeholders partners for implementing the project',
-      'Contributing to capacity building activities within the scope of SERVIR for benefiting all the regional partners in HKH.',
+      'Worked in Afghanistan and developed an operational framework for wheat area mapping in Afghanistan using machine learning techniques and Google Earth Engine.',
+      'Developed an operational framework for a Rangeland monitoring system in Afghanistan using the TIMESAT model and machine learning techniques',
+      'Developed a framework for crop area estimation using remote sensing and machine learning in Bangladesh',
+      'Developed a framework for crop area estimation using remote sensing and machine learning in Bangladesh',
+      'Coordinated with stakeholders and partners for project implementation',
+      'Contributing to capacity-building activities within the scope of SERVIR to benefit all the regional partners in the Hindu Kush Himalayan region.',
+      'Providing input on user engagement, report writing, and fieldwork.',
+      'Collaborated closely with stakeholder partners, including national government agencies, to effectively implement project initiatives',
 
     ],
   },
@@ -69,11 +84,7 @@ const work = [
     url: 'https://www.drdo.gov.in/labs-and-establishments/terminal-ballistics-research-laboratory-tbrl',
     startDate: '2016-04-01',
     endDate: '2016-08-31',
-    summary: `Arthena is a Series A Company funded by <a href="https://www.anthemis.com/">Athemis</a>,
-    <a href="https://foundationcapital.com">Foundation Capital</a>, and <a href="https://ycombinator.com/">YC</a>.
-    We develop quantitative strategies to predict the value of fine art and build investment products.
-    I ran a 20-person product and engineering org for 8 years. We were acquired by
-    <a href="https://www.masterworks.com/">Masterworks</a> in 2023.`,
+    summary: 'Snow and Glacier monitoring using multi-sensor satellite imagery.',
     highlights: [
       'Developed a framework for automatic snow and glacier monitoring using multi-sensor satellite data.',
     ],
@@ -82,42 +93,17 @@ const work = [
     name: 'Indian Agriculture Research Institute, India',
     position: 'Research Engineer',
     url: 'http://enveritas.org',
-    startDate: '2016-09-01',
-    endDate: '2018-01-01',
+    startDate: '2015-09-01',
+    endDate: '2016-01-01',
     summary: `Enveritas is a non-profit that works with coffee farmers to improve their livelihoods.
     I joined on day one and helped build a variety of tools to collect and analyze data. I also advised
     on technical strategy, helped hire engineers, and advised on their YC application.`,
     highlights: [
-      'Trained a model for the Brazilian Coffee Scenes Dataset with better than state of the art accuracy.',
-      'Collected training sets on the ground in Uganda. Built dashboards to visualize work of surveyors using Flask, React, and D3.',
-      'Performed supporting analysis to ensure data integrity using Pandas, t-SNE, SVM\'s, and other techniques.',
+      'Designed and deployed desktop-based software to analyze and process hyperspectral data, tailored to meet organizational requirements',
+      'Contributed to scientific report writing and actively participated in fieldwork to collect spectroscopic data from rice fields for calibrating satellite data.',
     ],
   },
-  {
-    name: 'Indian Agriculture Research Institute, India',
-    position: 'Research Engineer',
-    url: 'https://zenysis.com',
-    startDate: '2016-02-01',
-    endDate: '2016-03-01',
-    summary: `Zenysis develops data analysis and visualization tools for government agencies and international organizations.
-    Their solutions help improve decision-making by integrating and analyzing large-scale datasets from various sources.
-    I was the second contributor to the codebase. We built data visualization tools and tackled complex data ingestion
-    challenges for the Ethiopian Ministry of Health.`,
-    highlights: [
-      'Worked in Addis Ababa for the Ethiopian Ministry of Health and built data visualization tools in React and Flask.',
-      'Ingested multiple databases with different alphabets, calendars, and without official spellings of geographic locations.',
-    ],
-  },
-  {
-    name: 'United States Department of Agriculture (USAD), USA',
-    position: 'Data Science Intern',
-    url: 'https://www.usda.gov/',
-    startDate: '2023-06-01',
-    endDate: '2023-08-31',
-    highlights: [
-      'Developed a frame work for rice yield prediction using satellite data and machine learning',
-    ],
-  },
+
   // {
   //   name: 'Planetary Resources',
   //   position: 'Avionics Intern',
