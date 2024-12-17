@@ -1,5 +1,11 @@
 # PUBLICATIONS
 
+- Tiwari, V, Kelly Thorp, Mirela G. Tulbure, Joshua Gray, Mohammad Kamruzzaman, Timothy J. Krupnik, A. Sankarasubramanian, Marcelo Ardon (2024).” Advancing Food Security: Rice Yield Estimation  Framework using Time-Series Optical Data & Machine Learning”, PLOS ONE, DOI: https://doi.org/10.1371/journal.pone.0309982
+
+- Mollie D Gaines, Mirela G Tulbure, Vinicius Perin, Rebecca Composto, Tiwari, V (2024). " Projecting surface water area under different climate and development scenarios”, Earths Future, DOI: https://doi.org/10.1029/2024EF004625
+
+- Rebecca W Composto, Mirela G Tulbure, Tiwari, V, Mollie D Gaines, Júlio Caineta (2024). “Quantifying urban flood extent using satellite imagery and machine learning” Natural Hazards, DOI: https://doi.org/10.1007/s11069-024-06817-5
+
 - Tiwari, V., Tulbure, M. G., Caineta, J., Gaines, M. D., Perin, V., Kamal, M., Krupnik, T. J., Aziz, M. A., Islam, A. A., & Islam, A. T. (2023). "Automated in-season rice crop mapping using Sentinel time-series data and Google Earth Engine: A case study in climate-risk prone Bangladesh." *Journal of Environmental Management*. DOI: [10.1016/j.jenvman.2023.119615](https://doi.org/10.1016/j.jenvman.2023.119615)
 
 - Jain, S., Tiwari, V., Thapa, A., Mangla, R., Jaiswal, R. K., Kumar, V., Tiwari, S., Tulbure, M. G., Galkate, R., Lohani, A. K., & Pandey, K. (2022). "Performance Evaluation of Google Earth Engine Based Precipitation Datasets Under Different Climatic Zones over India." *Remote Sensing in Earth Systems Sciences*. DOI: [10.1007/s41976-022-00077-2](https://link.springer.com/article/10.1007/s41976-022-00077-2)
